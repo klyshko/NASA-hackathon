@@ -22,7 +22,8 @@ Our project consists of three jupyter notebooks that describe the process of dat
 These data sets are available at data.nasa.gov and were chosen because they fit into requirements: (i) combined from various sources at different timescales, (ii) have a lot missing or incomplete data entries.
 
 ### Future Plans 
-Our project requires more time for completion, 
+Our project requires more time for completion, thus we concentrate all our effort on providing the best performance for the number of features that we have already implemented thus aiming at the quality of performance rather than broadness. 
+
 
 ### Built With 
 Jupyter notebooks and Python 3.6 with various open source modules
