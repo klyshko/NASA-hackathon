@@ -1,0 +1,2 @@
+# NASA-hackathon
+Datasets, aggregated from different sources, can have missing or incomplete values which impose difficulties on data analysis and research. The proposed project aims to build the pipeline for the recovery of various data: categorical, numerical and textual – collected from multiple resources. In the project, we focus on incomplete data, such as geographical locations (cities, places, highways, coordinates), information sources (news websites, TV channels, articles) and measured features of celestial objects (meteorites’ mass and type).
